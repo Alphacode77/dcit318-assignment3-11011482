@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\FinanceManagementSys\\FinanceManagementSystem.csproj": {}
+    "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\financemanagementsys\\FinanceManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\FinanceManagementSys\\FinanceManagementSystem.csproj": {
+    "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\financemanagementsys\\FinanceManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\FinanceManagementSys\\FinanceManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\financemanagementsys\\FinanceManagementSystem.csproj",
         "projectName": "FinanceManagementSystem",
-        "projectPath": "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\FinanceManagementSys\\FinanceManagementSystem.csproj",
+        "projectPath": "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\financemanagementsys\\FinanceManagementSystem.csproj",
         "packagesPath": "C:\\Users\\Oteng-Kumi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\FinanceManagementSys\\obj\\",
+        "outputPath": "C:\\Users\\Oteng-Kumi\\Desktop\\L300\\SecondSem\\Progrmming 2\\dcit318-assignment3-11011482\\financemanagementsys\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Oteng-Kumi\\AppData\\Roaming\\NuGet\\NuGet.Config"
