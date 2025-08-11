@@ -1,0 +1,15 @@
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\bin\Debug\net8.0\InventoryRecCAP.exe
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\bin\Debug\net8.0\InventoryRecCAP.deps.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\bin\Debug\net8.0\InventoryRecCAP.runtimeconfig.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\bin\Debug\net8.0\InventoryRecCAP.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\bin\Debug\net8.0\InventoryRecCAP.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\InventoryRecCAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\InventoryRecCAP.AssemblyInfoInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\InventoryRecCAP.AssemblyInfo.cs
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\InventoryRecCAP.csproj.CoreCompileInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\InventoryRecCAP.sourcelink.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\InventoryRecCAP.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\refint\InventoryRecCAP.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\InventoryRecCAP.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\InventoryRecCAP.genruntimeconfig.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\InventoryRecCAP\obj\Debug\net8.0\ref\InventoryRecCAP.dll
