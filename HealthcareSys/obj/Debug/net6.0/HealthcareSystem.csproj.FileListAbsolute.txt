@@ -1,0 +1,15 @@
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\bin\Debug\net6.0\HealthcareSystem.exe
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\bin\Debug\net6.0\HealthcareSystem.deps.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\bin\Debug\net6.0\HealthcareSystem.runtimeconfig.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\bin\Debug\net6.0\HealthcareSystem.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\bin\Debug\net6.0\HealthcareSystem.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\HealthcareSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\HealthcareSystem.AssemblyInfoInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\HealthcareSystem.AssemblyInfo.cs
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\HealthcareSystem.csproj.CoreCompileInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\HealthcareSystem.sourcelink.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\HealthcareSystem.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\refint\HealthcareSystem.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\HealthcareSystem.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\HealthcareSystem.genruntimeconfig.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\HealthcareSys\obj\Debug\net6.0\ref\HealthcareSystem.dll
