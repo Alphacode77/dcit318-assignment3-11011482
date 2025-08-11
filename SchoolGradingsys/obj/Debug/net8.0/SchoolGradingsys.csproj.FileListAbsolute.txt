@@ -1,0 +1,15 @@
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\SchoolGradingsys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\SchoolGradingsys.AssemblyInfoInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\SchoolGradingsys.AssemblyInfo.cs
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\SchoolGradingsys.csproj.CoreCompileInputs.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\SchoolGradingsys.sourcelink.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\bin\Debug\net8.0\SchoolGradingsys.exe
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\bin\Debug\net8.0\SchoolGradingsys.deps.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\bin\Debug\net8.0\SchoolGradingsys.runtimeconfig.json
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\bin\Debug\net8.0\SchoolGradingsys.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\bin\Debug\net8.0\SchoolGradingsys.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\SchoolGradingsys.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\refint\SchoolGradingsys.dll
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\SchoolGradingsys.pdb
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\SchoolGradingsys.genruntimeconfig.cache
+C:\Users\Oteng-Kumi\Desktop\L300\SecondSem\Progrmming 2\dcit318-assignment3-11011482\SchoolGradingsys\obj\Debug\net8.0\ref\SchoolGradingsys.dll
